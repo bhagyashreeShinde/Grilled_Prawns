@@ -9,6 +9,12 @@ Following Points are covered in the demo page:
 
 --The Add Friend functionality uses singleton object and reveal pattern using fat arrow methods of es6 
 
+--The reusable components are cuddle up into html file but can be used seperatly as per required along with required css.
+
+--All the functionality like filter, add and remove friend, scroll top are build up using es6.
+
+
+
 To view the page, once the zip file is downloaded , extract it to a folder and load the GrilledPrawns.html in any browser(preferred Chrome to check resolution). 
 
 
